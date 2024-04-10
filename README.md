@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragupathy-v&label=Profile%20views&color=0e75b6&style=flat" alt="ragupathy-v" /> </p>
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **ragupathyv02@gmail.com**
 
